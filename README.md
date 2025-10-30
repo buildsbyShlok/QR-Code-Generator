@@ -8,7 +8,7 @@ Built with **HTML, CSS, and JavaScript**, this tool supports **custom sizes, col
 
 ## 🚀 Demo
 
-🔗 **Live Website:** [QR Code Generator](https://to-do-list-1-6.netlify.app/)  
+🔗 **Live Website:** [QR Code Generator](https://my-qr-code-generator-1-6.netlify.app/)  
 
 ---
 
