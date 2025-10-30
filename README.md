@@ -38,7 +38,7 @@ The interface is designed to be clean, responsive, and minimal — providing a s
 
 | 💻 Web View | 
 |:------------:|
-| ![Web View](./preview.png) | 
+| ![Web View](./preview.jpeg) | 
 
 
 ---
