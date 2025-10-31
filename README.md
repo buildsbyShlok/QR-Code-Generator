@@ -1,9 +1,8 @@
-
-<h1 align="center">⚡ QR Code Generator</h1>
+<h1 align="center">🎮 Simon Says  Game</h1>
 
 <p align="center">
-  <i>A clean, elegant, and responsive QR Code Generator built with pure HTML, CSS, and JavaScript.</i><br/>
-  Customize colors, size, and instantly download your QR code — all in a smooth, modern UI.
+  <i>A clean, minimal, and responsive Simon Says memory challenge built with pure HTML, CSS, and JavaScript.</i><br/>
+  Test your memory as the sequence grows — simple visuals, smooth gameplay, and a modern look.
 </p>
 
 <p align="center">
@@ -14,43 +13,42 @@
 </p>
 
 ---
-
 ## 🌐 Live Demo
 
-🚀 The project is deployed and live on **Netlify**! <br>
-👉 [**Visit the Website**](https://my-qr-code-generator-1-6.netlify.app/)  
+🚀 The project is deployed and live on **Netlify**! 
+<p>
+  🎯 <a href="https://simon-says-1-6.netlify.app/" target="_blank"><b>▶️ Play Live Demo</b></a>
+</p>
 
----
+
 
 ## 🌟 Overview
 
-A fully functional **QR Code Generator Web App** that allows users to:
-- 🔗 Enter any text or URL  
-- 🎨 Choose QR **size**, **foreground color**, and **background color**  
-- ⚡ Generate QR instantly using **QRCode.js**  
-- 💾 Download QR as a high-quality PNG image  
+A modern web-based **Simon Says Memory Game** where you:
+- 🔹 Watch the sequence of flashing colors  
+- 🔹 Repeat it in the same order to advance levels  
+- 🔹 Challenge your focus and memory with every round  
 
-The interface is designed to be clean, responsive, and minimal — providing a smooth experience on both desktop and mobile.
+No frameworks, no dependencies — just pure **HTML, CSS, and JavaScript** with a smooth, responsive UI.
 
 ---
 
-## 🎨 Preview
+## 🎨 Screenshots
 
-| 💻 Web View | 
-|:------------:|
-| ![Web View](./preview.jpeg) | 
-
+| 🧩 Gameplay |
+|:-------------:|
+| ![Gameplay](assets/gameplay.png) |
 
 ---
 
 ## 🚀 Features
 
-✅ **Customizable QR Codes** – choose size and colors  
-✅ **Instant Generation** – no page reloads, pure JS logic  
-✅ **Downloadable PNGs** – automatically named based on your text or domain  
-✅ **Input Validation** – prevents blank entries  
-✅ **Responsive Design** – works seamlessly across devices  
-✅ **Smooth UI Animations** – subtle fade-ins and focus effects  
+✅ **Start Anytime** – press any key or click “Start Game”  
+✅ **Dynamic Levels** – each round adds a new random color  
+✅ **Instant Feedback** – flashing buttons and messages for each move  
+✅ **Score Tracking** – shows your current level and total score  
+✅ **Responsive UI** – clean, centered layout that fits any screen  
+✅ **Restart Option** – restart instantly after a mistake  
 
 ---
 
@@ -58,18 +56,24 @@ The interface is designed to be clean, responsive, and minimal — providing a s
 
 | Technology | Purpose |
 |-------------|----------|
-| **HTML5** | Structure and layout |
-| **CSS3** | Styling, responsiveness, and UI polish |
-| **JavaScript (ES6)** | Logic for generation, validation, and downloads |
-| **QRCode.js Library** | Handles QR code creation and encoding |
+| **HTML5** | Game structure and layout |
+| **CSS3** | Styling, animations, and responsive design |
+| **JavaScript (ES6)** | Game logic, sequence handling, and interactivity |
+| **Inter Font** | Clean and readable typography |
 
 ---
 
-## ⚙️ How It Works
+## 💡 How to Run
 
-1. User inputs text or URL  
-2. JavaScript fetches the value and passes it to `QRCode.js`  
-3. The library generates the QR code and renders it dynamically  
-4. The “Download QR Code” button converts the QR into a PNG image via the **Canvas API**  
+1. Clone or download this repository  
+2. Open **index.html** in any modern browser  
+3. Press **Start Game** or any key to begin  
+4. Watch, memorize, and repeat the sequence!
 
 ---
+
+<p align="center">
+  🧠 <i>“Simple. Clean. Addictive.”</i>  
+</p>
+
+
