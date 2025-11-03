@@ -36,9 +36,9 @@ The interface is designed to be clean, responsive, and minimal — providing a s
 
 ## 🎨 Preview
 
-| 💻 Web View | 📱 Mobile View |
-|:------------:|:---------------:|
-| ![Web View](./preview.png) | ![Mobile View](./mobile-preview.png) |
+| 💻 Web View | 
+|:------------:|
+| ![Web View](./preview.jpeg) |
 
 *(Add screenshots if available in your repository)*
 
