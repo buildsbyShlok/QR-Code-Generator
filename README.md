@@ -17,7 +17,7 @@
 
 ## 🌐 Live Demo
 
-🚀 The project is deployed and live on **Netlify**!
+🚀 The project is deployed and live on **Netlify**! <br>
 👉 [**Visit the Website**](https://my-qr-code-generator-1-6.netlify.app/)  
 
 ---
